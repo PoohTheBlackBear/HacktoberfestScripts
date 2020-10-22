@@ -1,0 +1,4 @@
+name: my_app
+dependencies:
+  glob: ^1.2.0
+  path: ^1.7.0
